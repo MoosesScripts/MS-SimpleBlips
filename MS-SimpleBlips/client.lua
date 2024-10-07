@@ -1,5 +1,5 @@
 local blipLocations = {
-    {title="Test Blip", color=2, id=280, coords = vector3(-1345.0, -244.0, 47.0)}, -- Change coords as needed
+    {title="Change Me", color=2, id=280, coords = vector3(-1345.0, -244.0, 47.0)}, -- Change coords as needed
 }
 
 Citizen.CreateThread(function()
